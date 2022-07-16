@@ -107,8 +107,8 @@ user_id, date,       user_type, type,     amount/currency
 ...............
 0.06
 0.90
-0
-0.70
+87.00
+3.00
 0.30
 0.30
 5.00
